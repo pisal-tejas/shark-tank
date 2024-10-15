@@ -60,32 +60,32 @@ Our Solution, Simplified:
 ## Screenshots
 
 ## 1.Shark Tank Home Page
-![Shark Tank Home](https://github.com/pisaltejas/Shark-Tank/assets/137098887/99c9687e-4762-487d-8df0-3b1cf1250a04)
+![Shark Tank Home](https://github.com/pisal-tejas/Shark-Tank-PowerBI/assets/137098887/99c9687e-4762-487d-8df0-3b1cf1250a04)
 
 
 ## 2. Shark Tank Ranking :
-![Shark Tank Ranking](https://github.com/pisaltejas/Shark-Tank/assets/137098887/f6c08c59-f023-49fe-a358-e5de2726c006)
+![Shark Tank Ranking](https://github.com/pisal-tejas/Shark-Tank-PowerBI/assets/137098887/f6c08c59-f023-49fe-a358-e5de2726c006)
 
 ## 3. Shark Tank Shark Info :
-![Shark Tank Shark Info](https://github.com/pisaltejas/Shark-Tank/assets/137098887/ae8f2980-3739-4929-b54d-27db66b5c9d8)
+![Shark Tank Shark Info](https://github.com/pisal-tejas/Shark-Tank-PowerBI/assets/137098887/ae8f2980-3739-4929-b54d-27db66b5c9d8)
 
 
 ## 4. Shark Tank Pitch Anlaysis :
-![Shark Tank Pitch Analysis](https://github.com/pisaltejas/Shark-Tank/assets/137098887/29d77620-f3d6-4070-b9a6-5ca6a245573d)
+![Shark Tank Pitch Analysis](https://github.com/pisal-tejas/Shark-Tank-PowerBI/assets/137098887/29d77620-f3d6-4070-b9a6-5ca6a245573d)
 
 
 ## 5. Shark Tank Overall Analysis :
-![Shark Tank Overall Analysis](https://github.com/pisaltejas/Shark-Tank/assets/137098887/c2a33a76-7444-47d7-9ad2-afce0485f26c)
+![Shark Tank Overall Analysis](https://github.com/pisal-tejas/Shark-Tank-PowerBI/assets/137098887/c2a33a76-7444-47d7-9ad2-afce0485f26c)
 
 
 ## 6. Azure Devops 
-![Screenshot (109)](https://github.com/pisaltejas/Shark-Tank/assets/137098887/48e22b36-447e-4d90-99f1-a7a02842e984)
+![Screenshot (109)](https://github.com/pisal-tejas/Shark-Tank-PowerBI/assets/137098887/48e22b36-447e-4d90-99f1-a7a02842e984)
 
 ###  Home Dashboard 
-![Shark Tank-Home](https://github.com/pisaltejas/Shark-Tank/assets/137098887/fde2c063-1222-4c86-8fe5-5d10c78c4897)
+![Shark Tank-Home](https://github.com/pisal-tejas/Shark-Tank-PowerBI/assets/137098887/fde2c063-1222-4c86-8fe5-5d10c78c4897)
 
 ### Shark Information
-![Shark Tank-Shark info](https://github.com/pisaltejas/Shark-Tank/assets/137098887/def67ccf-6ba5-44b8-8d23-80b00ff88d92)
+![Shark Tank-Shark info](https://github.com/pisal-tejas/Shark-Tank-PowerBI/assets/137098887/def67ccf-6ba5-44b8-8d23-80b00ff88d92)
 
 ### Ranking
 ![Shark Tank-Ranking](https://github.com/pisaltejas/Shark-Tank/assets/137098887/83f28a7c-36f5-483a-bf3f-3d7b614f0616)
