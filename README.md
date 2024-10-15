@@ -59,22 +59,22 @@ Our Solution, Simplified:
 
 ## Screenshots
 
-## 1.Shark Tank Home Page
+## 1. Power BI Shark Tank Home Page
 
 ![Shark Tank Home](https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/powerbi%20shark-tank-home.png)
 
-## 2. Shark Tank Ranking :
+## 2. Power BI Shark Tank Ranking :
 ![Shark Tank Ranking](https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/powerbi%20shark%20tank%20ranking.png)
 
-## 3. Shark Tank Shark Info :
+## 3. Power BI Shark Tank Shark Info :
 ![Shark Tank Shark Info](https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/powerbi-shark%20tank%20info.png)
 
 
-## 4. Shark Tank Pitch Anlaysis :
+## 4. Power BI Shark Tank Pitch Anlaysis :
 ![Shark Tank Pitch Analysis](https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/powerbi%20shark%20tank%20pitch%20analysis.png)
 
 
-## 5. Shark Tank Overall Analysis :
+## 5. Power BI Shark Tank Overall Analysis :
 ![Shark Tank Overall Analysis](https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/powerbi%20shark%20tank%20overall%20analysis.png)
 
 
