@@ -60,7 +60,7 @@ Our Solution, Simplified:
 ## Screenshots
 
 ## 1.Shark Tank Home Page
-![Shark Tank Home](https://github.com/pisal-tejas/Shark-Tank-PowerBI/assets/137098887/99c9687e-4762-487d-8df0-3b1cf1250a04)
+![Shark Tank Home](https://github.com/pisal-tejas/shark-tank-PowerBI/assets/137098887/99c9687e-4762-487d-8df0-3b1cf1250a04)
 
 
 ## 2. Shark Tank Ranking :
