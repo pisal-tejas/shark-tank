@@ -61,25 +61,26 @@ Our Solution, Simplified:
 
 ## 1.Shark Tank Home Page
 
-![Shark Tank Home]()
+![Shark Tank Home](
+https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/Home%20dashboard.png)
 
 ## 2. Shark Tank Ranking :
-![Shark Tank Ranking]()
+![Shark Tank Ranking](https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/powerbi%20shark%20tank%20ranking.png)
 
 ## 3. Shark Tank Shark Info :
-![Shark Tank Shark Info]()
+![Shark Tank Shark Info](https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/powerbi-shark%20tank%20info.png)
 
 
 ## 4. Shark Tank Pitch Anlaysis :
-![Shark Tank Pitch Analysis]()
+![Shark Tank Pitch Analysis](https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/powerbi%20shark%20tank%20pitch%20analysis.png)
 
 
 ## 5. Shark Tank Overall Analysis :
-![Shark Tank Overall Analysis]()
+![Shark Tank Overall Analysis](https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/powerbi%20shark%20tank%20overall%20analysis.png)
 
 
 ## 6. Azure Devops 
-![Screenshot (109)]()
+![Screenshot (109)](https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/azure%20devops.png)
 
 ###  Home Dashboard 
 ![Shark Tank-Home](https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/Shark%20Tank-Home.png)
