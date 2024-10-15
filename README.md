@@ -61,7 +61,7 @@ Our Solution, Simplified:
 
 ## 1.Shark Tank Home Page
 
-![Shark Tank Home](https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/powerbi%20shark-tank-home.png)
+![Shark Tank Home](https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/Home%20dashboard.png)
 
 ## 2. Shark Tank Ranking :
 ![Shark Tank Ranking](https://github.com/pisal-tejas/shark-tank-PowerBI/blob/main/Shark%20Tank%20JPG%20files/powerbi%20shark%20tank%20ranking.png)
