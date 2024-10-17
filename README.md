@@ -10,9 +10,6 @@ https://app.powerbi.com/view?r=eyJrIjoiYjRkMmIwZjMtM2NkYS00OGI3LTk4OTAtZjUyMmRhN
 https://app.powerbi.com/groups/me/reports/19b09ca2-4bd7-49fc-9242-07e0ba907283/ReportSectionb74a74ca49e88dba3035?experience=power-bi
 
 
-### Demo video url (youtube) :
-https://www.youtube.com/watch?v=-pX7Aqw4FG0
-
 ### Project Description Industry: 
 Fin Tech 
 ### Project Title
