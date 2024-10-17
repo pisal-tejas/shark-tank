@@ -5,9 +5,8 @@ This is my FRT Internship project
 https://dev.azure.com/tejaspisal4/_git/Shark%20Tank%20-%20PowerBI%20Project
  
 ### Shark Tank Power BI Dashboard Url:
-https://app.powerbi.com/view?r=eyJrIjoiYjRkMmIwZjMtM2NkYS00OGI3LTk4OTAtZjUyMmRhNGViMzdhIiwidCI6IjY4MDQ4ZjViLTBhNWMtNDVmYi1iZjZkLWM2ZjBjNzc5OTQ3ZiIsImMiOjEwfQ%3D%3D&pageName=ReportSectionaa217481d2069a0153d9
-
-https://app.powerbi.com/groups/me/reports/19b09ca2-4bd7-49fc-9242-07e0ba907283/ReportSectionb74a74ca49e88dba3035?experience=power-bi
+{https://app.powerbi.com/view?r=eyJrIjoiYjRkMmIwZjMtM2NkYS00OGI3LTk4OTAtZjUyMmRhNGViMzdhIiwidCI6IjY4MDQ4ZjViLTBhNWMtNDVmYi1iZjZkLWM2ZjBjNzc5OTQ3ZiIsImMiOjEwfQ%3D%3D&pageName=ReportSectionaa217481d2069a0153d9
+https://app.powerbi.com/groups/me/reports/19b09ca2-4bd7-49fc-9242-07e0ba907283/ReportSectionb74a74ca49e88dba3035?experience=power-bi}
 https://app.powerbi.com/reportEmbed?reportId=19b09ca2-4bd7-49fc-9242-07e0ba907283&autoAuth=true&embeddedDemo=true
 
 ### Project Description Industry: 
