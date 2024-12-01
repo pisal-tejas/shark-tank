@@ -1,5 +1,4 @@
-## FRT Project : Shark Tank -PowerBI Dashboard 
-This is my FRT Internship project
+## Shark Tank -PowerBI Dashboard 
 
 ### Project Demo Url (Azure DevOps):
 https://dev.azure.com/tejaspisal4/_git/Shark%20Tank%20-%20PowerBI%20Project
